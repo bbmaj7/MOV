@@ -1,5 +1,5 @@
 # MOV
-MOV merupakan sebuah project dari online class BuildWithAngga.com dengan menggunakan Kotlin sebagai front-end dan menggunakan Firebase sebagai back-end
+MOV merupakan sebuah project aplikasi simulasi pemesanan tiket bioskop secara online dari kelas online BuildWithAngga. Dengan menggunakan Kotlin sebagai Front-End dan menggunakan Firebase sebagai Back-End
 
 ## Fitur
 1. Splashscreen
