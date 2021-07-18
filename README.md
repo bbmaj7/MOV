@@ -1,10 +1,10 @@
 # MOV
-MOV merupakan sebuah project aplikasi simulasi pemesanan tiket bioskop secara online dari kelas online BuildWithAngga. Dengan menggunakan Kotlin sebagai Front-End dan menggunakan Firebase sebagai Back-End
+MOV merupakan sebuah project aplikasi simulasi pemesanan tiket bioskop secara online dari kelas online BuildWithAngga. Dengan menggunakan Kotlin sebagai Front-End & menggunakan Firebase sebagai Back-End.
 
 ## Fitur
 1. Splash Screen
 2. On Boarding 
-3. SignIn dan SignUp
+3. SignIn & SignUp
 4. Home
 5. Movie List
 6. Movie Detail
